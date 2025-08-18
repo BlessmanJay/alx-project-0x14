@@ -68,8 +68,8 @@ GET /titles/search/title/Inception?info=base_info&limit=1
     }
   ]
 }
+```json
 
-________________________
 ### Notes
 
 All query parameters are optional.
