@@ -47,7 +47,7 @@ It includes details such as:
 ## Request and Response Format  
 
 ### Example Request  
-```http
+http
 GET /titles/search/title/Inception?info=base_info&limit=1
 
 
@@ -69,6 +69,7 @@ GET /titles/search/title/Inception?info=base_info&limit=1
   ]
 }
 ```json
+
 
 ### Notes
 
