@@ -53,6 +53,7 @@ GET /titles/search/title/Inception?info=base_info&limit=1
 
 ### Example Response (Simplified)
 
+```json
 {
   "results": [
     {
