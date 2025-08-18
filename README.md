@@ -68,7 +68,7 @@ GET /titles/search/title/Inception?info=base_info&limit=1
     }
   ]
 }
-```json
+```
 
 
 ### Notes
